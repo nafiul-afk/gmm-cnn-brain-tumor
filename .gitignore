@@ -38,3 +38,7 @@ Thumbs.db
 
 # Training logs
 logs/
+
+# Local working files, not part of the deliverable
+NEXT_STEPS.md
+run_overnight.ps1
