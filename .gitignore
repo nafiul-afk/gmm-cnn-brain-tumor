@@ -1,0 +1,37 @@
+# Dataset (downloaded separately from Kaggle)
+data/Training/
+data/Testing/
+data/*.zip
+
+# Trained model artifacts
+models/*.keras
+models/*.h5
+models/*.pkl
+models/*.joblib
+
+# Cached preprocessing output
+cache/
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.2
+scikit-learn>=1.3.0
+scipy>=1.11.0
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+tensorflow>=2.13.0
+plotly>=5.17.0
+streamlit>=1.41.0
+tqdm>=4.66.0
+statsmodels>=0.14.0

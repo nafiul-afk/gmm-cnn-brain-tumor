@@ -1,0 +1,12 @@
+# Development dependencies, required only to execute the notebooks locally.
+#
+# These are deliberately kept out of requirements.txt so that a deployment of
+# the Streamlit application does not install the notebook toolchain.
+#
+#   pip install -r requirements.txt -r requirements-dev.txt
+
+-r requirements.txt
+
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
